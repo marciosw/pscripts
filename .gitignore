@@ -1,0 +1,10 @@
+# Arquivos CSV
+*.csv
+
+# Arquivos com "key" no nome
+*key*
+*key*.json
+*key*.txt
+*key*.pem
+*key*.key
+
