@@ -1,5 +1,6 @@
 # Arquivos CSV
 *.csv
+*.json
 
 # Arquivos com "key" no nome
 *key*
